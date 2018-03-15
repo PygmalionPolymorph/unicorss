@@ -1,0 +1,11 @@
+.u-dblock {
+    display: block;
+}
+
+.u-dnone {
+    display: none;
+}
+
+.c-feeditem--read__headline {
+    font-weight: normal;
+}
